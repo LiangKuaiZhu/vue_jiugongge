@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as _,c as r,b as t}from"./index.721112a1.js";const i={},o={class:"divider"},s=t("h1",null,"divider",-1),c=[s];function a(d,n){return _(),r("div",o,c)}var f=e(i,[["render",a]]);export{f as default};

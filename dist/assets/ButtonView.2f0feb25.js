@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";import{o as e,c as o,b as s}from"./index.721112a1.js";const c={},n={class:"button"},r=s("h1",null,"button",-1),_=[r];function a(i,d){return e(),o("div",n,_)}var u=t(c,[["render",a]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o,c as s,b as _}from"./index.721112a1.js";const r={},t={class:"carousel"},a=_("h1",null,"carousel",-1),c=[a];function n(l,i){return o(),s("div",t,c)}var f=e(r,[["render",n]]);export{f as default};
